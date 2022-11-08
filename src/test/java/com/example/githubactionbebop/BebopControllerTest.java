@@ -8,6 +8,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class BebopControllerTest {
 
     void testController(){
-        assertThat(true).isTrue();
+        assertThat(false).isTrue();
     }
 }
