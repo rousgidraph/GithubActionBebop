@@ -53,6 +53,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-github-bebop</finalName>
 	</build>
 
 </project>
